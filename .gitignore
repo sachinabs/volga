@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environment and local config
+.env
+
+# Model weights and Hugging Face cache
+models/
+.cache/
+*.bin
+*.ctranslate2
+
+# Temporary audio files
+tmp/
+temp/
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
