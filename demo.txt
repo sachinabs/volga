@@ -1,1 +1,9 @@
 this is new file
+
+
+1. add file to git
+    git add .
+2. commiting the file and naming the commit (meaning mentioning what i have done)
+    git commit -m "i have done this this and woring"
+3. send the file to github for others to use the code
+    git push
